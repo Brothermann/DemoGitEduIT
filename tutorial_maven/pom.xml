@@ -8,7 +8,7 @@
   <packaging>pom</packaging>
 
   <name>tutorial_maven</name>
-  <!-- FIXME change it to the project's website -->
+  <!-- Se edita el archivo pom para corregir un error de dependencia transitiva tkt5693 -->
   <url>http://www.example.com</url>
 
   <properties>
